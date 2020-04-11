@@ -1,0 +1,76 @@
+
+ .culture{
+    margin-left:130px;
+}
+
+#more-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:440px;
+  
+   
+}
+
+#more-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+.popular{
+    position: absolute;
+    margin-top:60px;
+    margin-left:160px;
+   
+    
+}
+
+#pcities{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+} 
+
+.popularstates{
+    position: absolute;
+    margin-top:490px;
+    margin-left:160px;
+    padding-bottom: 30px;
+}
+
+#pstates{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    
+} 
+
+#more-state{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:870px;
+  
+
+}
+
+#more-state:hover{
+    background-color: skyblue;
+    color:black;
+}

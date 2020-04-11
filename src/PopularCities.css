@@ -1,0 +1,26 @@
+.pcities{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(184, 183, 241);
+    font-style: italic;
+    margin-top:50px;
+}
+
+.more-btn{
+    color:skyblue;
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 590px;
+    margin-top:20px;
+   
+   
+}
+
+.more-btn:hover{
+    background-color: skyblue;
+    color:black;
+}

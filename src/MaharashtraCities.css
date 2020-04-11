@@ -1,0 +1,27 @@
+.city-name{
+    display: block;
+    margin:10px;
+    text-decoration-line: none;
+    color:darkblue;
+    margin-left:10px;
+
+    
+}
+
+.city-name:hover{
+    text-decoration-line: underline;
+}
+
+#head{
+    margin-top:5px;
+    color:darkred;
+    font-size:25px;
+    margin-left:10px;
+    
+}
+
+.city-list{
+    position: absolute;
+    display: inline-block;
+}
+

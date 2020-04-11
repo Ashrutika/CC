@@ -1,0 +1,21 @@
+.season-btn{
+   border:none;
+    color:white;
+    height:150px;
+    width:200px;
+    background-color: #223388;
+    margin-left:190px;
+    margin-top:30px;
+    margin-bottom:10px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 8px black;
+
+}
+
+.season-btn:hover{
+    color:black;
+    background-color: wheat;
+    border-radius: 30px;
+    color:red;
+    
+}

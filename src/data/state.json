@@ -1,0 +1,273 @@
+{
+    "state":[
+
+        {  
+           "id":1,
+           "head_name":"Maharashtra",
+           "india":"India",
+           "img":"maharashtra.jpg",
+           "capital":"Mumbai",
+           "cap_link":"https://en.wikipedia.org/wiki/Mumbai",
+           "fest":"    Ganesh Chaturthi, a popular festival in the state.Statue of Shivaji The Great opposite to Gateway of India in South Mumbai.Ambedkar Jayanti procession at Chaitya Bhoomi, Mumbai. Household shrine in a Maharashtrian home.Vada Pav is one of the original dishes of Maharashtra. Pav Bhaji is also famous in maharashtra",
+           "info":"Maharashtra, a state spanning west-central India, is best known for its fast-paced capital, Mumbai (formerly Bombay). This sprawling metropolis is the seat of the Bollywood film industry It also has sites like the British Raj-era Gateway of India monument and cave temples at Elephanta Island. To the south is the rustic,beach-lined Konkan Coast. In the city of Pune, Aga Khan Palace is  a memorial to Mahatma Gandhi.",
+           
+           "culture_photos":
+            [
+                {"pic":"maha1.jpg"},
+                { "pic":"maha2.jpg"},
+                {"pic":"maha3.jpeg"},
+                {"pic":"maha4.jpg"},
+                { "pic":"maha5.jpg"},
+                {"pic":"maha6.jpg"},
+                {"pic":"maha7.jpg"},
+                {"pic":"maha8.jpg"}
+
+            ],
+           
+           "city_images":
+           [
+               {
+                "name":"Pune",
+                "img1":"pune.jpg",
+                "info":"Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace.",
+                "link":"/city/1"
+               },
+               {
+                "name":"Mumbai",
+                "img1":"mumbai.jpeg",
+                "info":"Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924.",
+                "link":"/city/2"
+               },
+               {
+                "name":"Ratnagiri",
+                "img1":"ratnagiri.gif",
+                "info":"Ratnagiri is a port town in Maharashtra, western India. Overlooking the Arabian Sea, Ratnadurg Fort has the Bhagwati temple and a lighthouse. Northeast, a fish museum and aquarium includes turtles and a whale skeleton.",
+                "link":"/city/5"
+               }
+            ],
+            
+            "state_images":
+            [
+                
+                {
+                    "name":"Himachal Pradesh",
+                    "img1":"himachal pradesh.jpg",
+                    "link":"/state/2"
+                },
+                {
+                    "name":"Rajasthan",
+                    "img1":"rajasthan.jpg",
+                    "link":"/state/3"
+                },
+                {
+                    "name":"Kerala",
+                    "img1":"keral.jpg",
+                    "link":"/state/4"
+                }
+                
+            ]
+
+         },
+
+         {
+           "id":2,
+           "head_name":"Himachal Pradesh",
+           "india":"India",
+           "img":"himachal pradesh.jpg",
+           "capital":"Shimla",
+           "cap_link":"https://en.wikipedia.org/wiki/Shimla",
+           "fest":"As compared to other states in north India non-vegetarian cuisine is more preferred. Some of the specialities of Himachal include Manee,Madeera,Pateer, Chouck, Bhagjery and chutney of Til. The Annual Festival of Kasol knows as Himachal Hills Festival",
+           "info":"Himachal Pradesh is a northern Indian state in the Himalayas. It's home to scenic mountain towns and resorts such as Dalhousie. Host to the Dalai Lama, Himachal Pradesh has a strong Tibetan presence. This is reflected in its Buddhist temples and monasteries, as well as its vibrant Tibetan New Year celebrations. The region is also well known for its trekking, climbing and skiing areas.",
+           
+           "culture_photos":
+            [
+                {"pic":"himachal1.jpeg"},
+                { "pic":"himachal2.jpg"},
+                {"pic":"himachal3.jpeg"},
+                {"pic":"himachal4.jpg"},
+                { "pic":"himachal5.jpg"},
+                {"pic":"himachal6.jpg"},
+                {"pic":"himachal7.jpg"},
+                {"pic":"himachal8.jpg"},
+                {"pic":"himachal9.jpeg"}
+            ],
+           
+           "city_images":
+           [
+               {
+                "name":"Shimla",
+                "img1":"shimla.jpg",
+                "info":"Shimla (Hindi:शिमला) or Simla is the capital of the state of Himachal Pradesh in India. It is a very popular holiday-retreat during the summer months and is well-known for its Victorian architecture, which is reflected in certain areas of the Mall and The Ridge.",
+                "link":"/city/6"
+               },
+               {
+                "name":"Dharamshala",
+                "img1":"dharamshala.jpg",
+                "info":"The place is known for its various attractions including the residence of the 14th Dalai Lama. The place is one of the most frequented spots in Dharamshala and is famous for its Tibetan culture, handicrafts and temples.",
+                "link":"/city/7"
+               },
+               {
+                "name":"Kasauli",
+                "img1":"kasauli.jpg",
+                "info":" Kasauli is famous for its many attractions like the Central Research Institute, Christ Church, Kasauli Brewery, and Sunset Point as well as various activities like trekking, shopping, and even paragliding.",
+                "link":"/city/8"
+               }
+            ],
+            
+            "state_images":
+            [
+                {
+                    "name":"Rajasthan",
+                    "img1":"rajasthan.jpg",
+                    "link":"/state/3"
+                },
+                {
+                    "name":"Kerala",
+                    "img1":"keral.jpg",
+                    "link":"/state/4"
+                },
+                {
+                    "name":"Maharashtra",
+                    "img1":"maharashtra.jpg",
+                    "link":"/state/1"
+                }
+            ]
+
+           
+         },
+         {
+            "id":3,
+            "head_name":"Rajasthan",
+            "india":"India",
+            "img":"rajasthan.jpg",
+            "capital":"Jaipur",
+            "cap_link":"https://en.wikipedia.org/wiki/Jaipur",
+            "fest":"Rajasthani food is known for its various spices and also its sweetness. Rajasthan is most famous for dalbati.The Ghoomar dance from Jodhpur and Kalbeliya dance of Jaisalmer have gained international recognition. Folk music is a vital part of Rajasthani culture.Pushkar Camel Festival,Kolayat Fair,etc these are some festivals of rajasthan.",
+            "info":"Rajasthan, meaning “The Abode of the Rajas,” was formerly called Rajputana.The state covers an area of 342,239 square kilometres or 10.4 percent of the total geographical area of India. It is the largest Indian state by area and the seventh largest by population.",
+            
+            "culture_photos":
+             [
+                 {"pic":"rajasthan1.jpg"},
+                 { "pic":"rajasthan2.jpg"},
+                 {"pic":"rajasthan3.jpg"},
+                 {"pic":"rajasthan4.jpg"},
+                 { "pic":"rajasthan5.jpg"},
+                 {"pic":"rajasthan6.jpg"},
+                 {"pic":"rajasthan7.jpg"},
+                 {"pic":"rajasthan8.jpg"},
+                 {"pic":"rajasthan9.jpg"}
+             ],
+            
+            "city_images":
+            [
+                {
+                 "name":"Jaipur",
+                 "img1":"jaipur.jpg",
+                 "info":"The city of Jaipur is the capital of Rajasthan and is known for its various attractions like Amer Fort, Hawa Mahal, Jala Mahal, Jantar Mantar, etc. It is popular by the name Pink City and is the largest city in the Indian state of Rajasthan. It is also believed to be one of the initially planned cities of the nation",
+                 "link":"/city/9"
+                },
+                {
+                 "name":"Udaipur",
+                 "img1":"udaipur.jpg",
+                 "info":"Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. ",
+                 "link":"/city/10"
+                },
+                {
+                 "name":"Ranakpur",
+                 "img1":"ranakpur.jpg",
+                 "info":"Ranakpur is a village located in Desuri tehsil near Sadri town in the Pali district of Rajasthan in western India. Ranakpur is widely known for its marble Jain temple, said to be the most spectacular of the Jain temples. There is also a small Sun temple which is managed by the Udaipur royal family trust.",
+                 "link":"/city/11"
+                }
+             ],
+             
+             "state_images":
+             [
+                 {
+                     "name":"Himachal pradesh",
+                     "img1":"himachal pradesh.jpg",
+                     "link":"/state/2"
+                 },
+                 {
+                    "name":"Maharashtra",
+                    "img1":"maharashtra.jpg",
+                    "link":"/state/1"
+                 },
+                 {
+                     "name":"Kerala",
+                     "img1":"keral.jpg",
+                     "link":"/state/4"
+                 }
+                 
+             ]
+ 
+         },
+        {
+
+            "id":4,
+            "head_name":"Kerala",
+            "india":"India",
+            "img":"keral.jpg",
+            "capital":"Thiruvananthapuram",
+            "cap_link":"https://en.wikipedia.org/wiki/Thiruvananthapuram",
+            "fest":" Kerala Sadya is a banquet meal prepared during functions and festivals.The culture of Kerala is a combination of both Indian and Dravidian culture.The main USP of Kerala is its performing arts like Kathakali, Mohiniyattam and Martial Art of Kalaripayattu.",
+            "info":"Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and backwaters, a network of canals. Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife.",
+            
+            "culture_photos":
+            [
+                 {"pic":"kerala1.jpg"},
+                 { "pic":"kerala2.jpg"},
+                 {"pic":"kerala3.jpeg"},
+                 {"pic":"kerala4.jpg"},
+                 { "pic":"kerala5.jpg"},
+                 {"pic":"kerala6.jpg"},
+                 {"pic":"kerala7.jpg"},
+                 {"pic":"kerala8.jpg"},
+                 {"pic":"kerala9.jpg"}
+            ],
+            
+            "city_images":
+            [
+                {
+                 "name":"Thiruvananthapuram",
+                 "img1":"thiruvanantapuram.jpg",
+                 "info":"Thiruvananthapuram is a major tourist centre, known for the Padmanabhaswamy Temple, the beaches of Kovalam and Varkala, the backwaters of Poovar and Anchuthengu and its Western Ghats tracts of Ponmudi and the Agastyamala.",
+                 "link":"/city/12"
+                },
+                {
+                 "name":"Kochi",
+                 "img1":"kochi.jpg",
+                 "info":"Popularly known as the Queen of Arabian Sea, the city also flaunts one of the finest natural harbours of the world and was the centre of the world spice trade for many centuries. Old Kochi loosely refers to a group of islands which comprise Willingdon Island, Fort Kochi, Mattancherry etc.",
+                 "link":"/city/13"
+                },
+                {
+                 "name":"Kollam",
+                 "img1":"kollam.jpg",
+                 "info":"Kollam is the fourth largest city in Kerala and the fifth largest in terms of corporation area. It is known for cashew processing and coir manufacturing. Ashtamudi Lake is considered the southern gateway to the backwaters of Kerala and is a prominent tourist destination at Kollam.",
+                 "link":"/city/14"
+                }
+            ],
+             
+             "state_images":
+            [
+                {
+                   "name":"Himachal pradesh",
+                   "img1":"himachal pradesh.jpg",
+                   "link":"/state/2"
+                },
+                {
+                   "name":"Rajasthan",
+                   "img1":"rajasthan.jpg",
+                   "link":"/state/3"
+                },
+                {
+                   "name":"Maharashtra",
+                   "img1":"maharashtra.jpg",
+                   "link":"/state/1"
+                }
+                 
+            ]
+ 
+        }
+          
+    ]
+}

@@ -1,0 +1,120 @@
+#hotels-place{
+    font-size: 20px;
+    margin-left:240px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    letter-spacing: 3px;
+} 
+
+.hotels{
+    position: absolute;
+    margin-top:60px;
+    margin-left:160px;
+   
+    
+}
+
+#hotel-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:110vh;
+  
+   
+}
+
+#hotel-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+.place-img{
+    margin-top:30px;
+    margin-left:140px;
+}
+
+.malls{
+   
+        position: absolute;
+        margin-top:120vh;
+        margin-left:160px;
+       
+        
+    
+}
+
+#shop{
+    font-size: 20px;
+    margin-left:390px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    letter-spacing: 3px;
+}
+
+#shop-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:180vh;
+  
+   
+}
+
+#shop-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+.more{
+   
+    position: absolute;
+    margin-top:190vh;
+    margin-left:160px;
+   
+}
+
+#also{
+    font-size: 20px;
+    margin-left:390px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    letter-spacing: 3px;
+}
+
+#moreplace-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:250vh;
+  
+   
+}
+
+#moreplace-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+
+

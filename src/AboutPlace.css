@@ -1,0 +1,49 @@
+.about-place{
+    height:auto;
+    width:800px;
+    background-color: white;
+    margin-top:20px;
+    margin-left: 250px;
+    border:1px solid grey;
+    border-radius:10px;
+    padding: 10px;
+   
+}
+
+.box-location{
+    position: absolute;
+    height: 200px;
+    width:370px;
+    margin-left:200px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+
+
+
+.place-info{
+    margin-top:220px;
+    padding:3px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#bold{
+    color:black;
+   font-weight: bold;
+   font-size: 17px;
+}
+
+#cap {
+   
+    color:dimgrey;
+    font-size:15px;
+}
+
+#title{
+    font-size:17px;
+    font-weight: bold;
+    color:red;
+}

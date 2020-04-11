@@ -1,0 +1,88 @@
+.photos-div{
+   display:inline-block;
+   position: relative;
+   margin-left:60px;
+   margin-top:20px;
+   background-color: transparent;
+   width: 250px;
+   height: 250px;
+   perspective: 1000px;
+   word-break: break-all;
+  
+}
+
+
+.photo{
+   
+    height:250px;
+    width:250px;
+    border-radius:10px;
+    box-shadow: 4px 4px 6px black;
+    opacity:0.7;
+    
+}
+
+.photo-name{
+    position: absolute;
+    top:170px;
+    left:10px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    word-break: break-all;
+}
+
+
+.flip-card-inner {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   
+  }
+
+  .photos-div:hover .flip-card-inner {
+   
+    transform: rotateY(180deg);
+  }
+
+  .flip-card-front, .flip-card-back {
+    
+    position: absolute;
+    width:250px;
+    height: 250px;
+    backface-visibility:hidden;
+  }
+
+  .flip-card-front {
+    background-color:black;
+    color: black;
+    border-radius:10px;
+   
+  }
+
+  .flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+    border-radius:10px;
+    
+  }
+
+  #info-state{
+    word-break: break-all;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 3px;
+  }
+  
+  #link-name{
+    color:red;
+    font-size:25px;
+  }
+ 

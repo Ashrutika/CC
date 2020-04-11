@@ -1,0 +1,35 @@
+.states-name{
+    display: block;
+    margin:10px;
+    text-decoration-line: none;
+    color:darkblue;
+    
+}
+
+.states-name:hover{
+    text-decoration-line: underline;
+}
+
+#head{
+    margin-top:5px;
+    color:darkred;
+    font-size:25px;
+    margin-left:10px;
+    
+}
+
+.city{
+    position: absolute;
+    display: inline-block;
+}
+
+.state-list{
+
+    display: inline-block;
+}
+
+.line{
+    position: absolute;
+    height:510px;
+    border:1px solid lightslategrey;
+}

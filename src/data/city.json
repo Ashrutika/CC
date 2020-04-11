@@ -1,0 +1,1784 @@
+{
+    "city":[
+        {
+            "id":1,
+            "cityname":"Pune",
+            "statename":"Maharashtra",
+            "india":"India",
+            "img":"pune.jpg",
+            "info":"Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi.",
+            
+            "images":
+            [
+                {"pic":"pune1.jpg"},
+                {"pic":"pune2.jpg"},
+                {"pic":"pune3.jpg"},
+                {"pic":"pune4.jpg"},
+                {"pic":"pune5.png"},
+                {"pic":"pune6.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"Agakhan Palace",
+                "img1":"agakhan.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Shaniwar Wada",
+                "img1":"shaniwar.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Okayama Garden",
+                "img1":"okayama.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Lal Mahal",
+                "img1":"lalmahal.jpg",
+                "info":"",
+                "link":"/place/4"
+                },
+                {
+                "name":"Khadakwasla Dam",
+                "img1":"khadakwasla.jpg",
+                "info":"",
+                "link":"/place/5"
+                },
+                {
+                "name":"Pawna Lake",
+                "img1":"pawna.jpg",
+                "info":"",
+                "link":"/place/6"
+                }
+            ],
+
+            "places_photos_head1":"Treks near Pune",
+            "places1":
+            [
+                {
+                  "name":"Sinhgad",
+                  "img1":"sinhgad.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Lohgad",
+                  "img1":"lohgad.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Rajmachi",
+                    "img1":"rajmachi.jpg",
+                    "info":"",
+                    "link":"/fort/3"
+                },
+                {
+                    "name":"Torna",
+                    "img1":"torna.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                },
+                {
+                    "name":"Visapur fort",
+                    "img1":"visapur.jpg",
+                    "info":"",
+                    "link":"/fort/5"
+                },
+                {
+                    "name":"Korigad",
+                    "img1":"korigad.jpg",
+                    "info":"",
+                    "link":"/fort/6"
+                }
+            ],
+
+            "places_photos_head2":"Hill stations near Pune",
+            "places2":
+            [
+                {
+                    "name":"Lonavla",
+                    "img1":"lonavla.jpg",
+                    "info":"",
+                    "link":""
+                },
+                {
+                    "name":"Mahabaleshwar",
+                    "img1":"mahabaleshwar.jpg",
+                    "info":"",
+                    "link":""
+                },
+                {
+                    "name":"Matheran",
+                    "img1":"matheran.jpg",
+                    "info":"",
+                    "link":""
+                }
+            ],
+
+            "cities":
+            [
+                {
+                    "name":"Delhi",
+                    "img1":"delhi.jpeg",
+                    "info":"",
+                    "link":"/city/3"
+                },
+                {
+                    "name":"Mumbai",
+                    "img1":"mumbai.jpeg",
+                    "info":"",
+                    "link":"/city/2"
+                },
+                {
+                    "name":"Kochi",
+                    "img1":"kochi.jpg",
+                    "info":"",
+                    "link":"/city/13"
+                }
+            ]
+        },
+
+        {
+            "id":2,
+            "cityname":"Mumbai",
+            "statename":"Maharashtra",
+            "india":"India",
+            "img":"mumbai.jpeg",
+            "info":"Mumbai (Marathi: मुंबई), a cosmopolitan metropolis, earlier known as Bombay, is the largest city in India and the capital of Maharashtra state.Mumbai's nature as the most eclectic and cosmopolitan Indian city is symbolized in the presence of Bollywood within the city, the centre of the globally-influential Hindi film and TV industries.",
+            
+            "images":
+            [
+                {"pic":"mumbai1.jpg"},
+                {"pic":"mumbai2.jpeg"},
+                {"pic":"mumbai3.jpg"},
+                {"pic":"mumbai4.jpg"},
+                {"pic":"mumbai5.jpg"},
+                {"pic":"mumbai6.jpg"},
+                {"pic":"mumbai7.jpg"},
+                {"pic":"mumbai8.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"Gateway of India",
+                "img1":"gateway.jpeg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Chatrapati shivaji terminus",
+                "img1":"shivaji-terminus.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Elephanta caves",
+                "img1":"elephanta.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Marine drive",
+                "img1":"marine.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Beaches near Mumbai",
+            "places1":
+            [
+                {
+                  "name":"Juhu Beach",
+                  "img1":"juhu.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Versova Beach",
+                  "img1":"versova.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Aksa Beach",
+                    "img1":"aksa.jpg",
+                    "info":"",
+                    "link":"/fort/3"
+                },
+                {
+                    "name":"Gorai Beach",
+                    "img1":"gorai.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            "places_photos_head2":"Forts near Mumbai",
+            "places2":
+            [
+                {
+                    "name":"Bandra Fort",
+                    "img1":"bandra.jpeg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Worli Fort",
+                    "img1":"worli.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Sion Fort",
+                    "img1":"sion.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "cities":
+            [
+                {
+                    "name":"Banglore",
+                    "img1":"banglore.png",
+                    "info":"",
+                    "link":"/city/4"
+                },
+                {
+                    "name":"Ratnagiri",
+                    "img1":"ratnagiri.gif",
+                    "info":"",
+                    "link":"/city/5"
+                },
+                {
+                    "name":"Pune",
+                    "img1":"pune.jpg",
+                    "info":"",
+                    "link":"/city/1"
+                }
+            ]
+         },
+
+         {
+            "id":3,
+            "cityname":"Delhi",
+            "statename":"",
+            "india":"India",
+            "img":"delhi.jpeg",
+            "info":"Delhi (Hindi: दिल्ली) is India's capital city and the home of executive, legislative, and judiciary branches of the Government of India. Delhi is a large metropolis with strengths in arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism and transport all contributing to its prominence.",
+            
+            "images":
+            [
+                {"pic":"delhi1.jpg"},
+                {"pic":"delhi2.jpg"},
+                {"pic":"delhi3.jpg"},
+                {"pic":"delhi4.jpg"},
+                {"pic":"delhi5.webp"},
+                {"pic":"delhi6.jpg"},
+                {"pic":"delhi7.jpg"},
+                {"pic":"delhi8.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"Red Fort",
+                "img1":"delhi1.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Qutub minar",
+                "img1":"qutub.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"India gate",
+                "img1":"india-gate.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Lotus temple",
+                "img1":"lotus.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Hillstations near Delhi",
+            "places1":
+            [
+                {
+                  "name":"Lansdowne",
+                  "img1":"lansdowne.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Nainital",
+                  "img1":"nainital.jpeg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Mussoorie",
+                    "img1":"mussoorie.jpeg",
+                    "info":"",
+                    "link":"/fort/3"
+                },
+                {
+                    "name":"Kausani",
+                    "img1":"kausani.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            "places_photos_head2":"Treks near Delhi",
+            "places2":
+            [
+                {
+                    "name":"Benog tibba",
+                    "img1":"benog.jpeg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Kuppar peak",
+                    "img1":"kuppar.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Prashar lake",
+                    "img1":"prashar.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "cities":
+            [
+                {
+                    "name":"Banglore",
+                    "img1":"banglore.png",
+                    "info":"",
+                    "link":"/city/4"
+                },
+                {
+                    "name":"Ratnagiri",
+                    "img1":"ratnagiri.gif",
+                    "info":"",
+                    "link":"/city/5"
+                },
+                {
+                    "name":"Pune",
+                    "img1":"pune.jpg",
+                    "info":"",
+                    "link":"/city/1"
+                }
+            ]
+        },
+
+        {
+            "id":4,
+            "cityname":"Banglore",
+            "statename":"Karnataka",
+            "india":"India",
+            "img":"banglore.png",
+            "info":"Bangalore, also known as Bengaluru, is the capital of the Indian state of Karnataka. It is India's third-largest city.Once called the 'Garden City of India' and the 'Pensioner's Paradise', these epithets no longer apply to Bangalore, which is now a large, cosmopolitan city with diminishing green spaces and a large working population. Bangalore is the major center of India's IT industry, popularly known as the Silicon Valley of India.",
+            
+            "images":
+            [
+                {"pic":"banglore1.jpeg"},
+                {"pic":"banglore2.jpg"},
+                {"pic":"banglore3.jpg"},
+                {"pic":"banglore4.jpg"},
+                {"pic":"banglore5.jpg"},
+                {"pic":"banglore6.webp"},
+                {"pic":"banglore7.jpg"},
+                {"pic":"banglore8.jpg"},
+                {"pic":"banglore9.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"Lalbagh botanical garden",
+                "img1":"lalbagh.png",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Cubbon park",
+                "img1":"cubbon.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Bangalore palace",
+                "img1":"banglore-palace.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Bannerghatta biological park",
+                "img1":"banner.jpeg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Forts near Bangalore",
+            "places1":
+            [
+                {
+                  "name":"Bangalore fort",
+                  "img1":"banglore-fort.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Devanahalli fort",
+                  "img1":"devanahalli.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Madhugiri betta",
+                    "img1":"madhugiri.jpg",
+                    "info":"",
+                    "link":"/fort/3"
+                },
+                {
+                    "name":"Skandagiri fort",
+                    "img1":"skandagiri.webp",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            "places_photos_head2":"Beaches near Bangalore",
+            "places2":
+            [
+                {
+                    "name":"Gokarna Beach",
+                    "img1":"gokarna.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Tannirbhavi Beach",
+                    "img1":"tannirbhavi.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Malpe Beach",
+                    "img1":"malpe.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "cities":
+            [
+                {
+                    "name":"Kollam",
+                    "img1":"kollam.jpg",
+                    "info":"",
+                    "link":"/city/14"
+                },
+                {
+                    "name":"Jaipur",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/city/9"
+                },
+                {
+                    "name":"Dharamshala",
+                    "img1":"dharamshala.jpg",
+                    "info":"",
+                    "link":"/city/7"  
+                }
+            ]
+        },
+
+        {
+            "id":5,
+            "cityname":"Ratnagiri",
+            "statename":"Maharashtra",
+            "india":"India",
+            "img":"ratnagiri.gif",
+            "info":"Ratnagiri has a diverse range of tourist attractions in the form of monuments, temples, and beaches. The beaches of this region are the most popular ones and some of the famous sand trails are Pawas Beach, Ganeshghule Beach, Ganpatipule Beach, etc.",
+            
+            "images":
+            [
+                {"pic":"ratnagiri.jpg"},
+                {"pic":"ratnagiri1.jpg"},
+                {"pic":"ratnagiri3.jpg"},
+                {"pic":"ratnagiri4.jpg"},
+                {"pic":"ratnagiri5.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"Swayambhu temple",
+                "img1":"swayambhu.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Tilak ali museum",
+                "img1":"tilak.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Jaigad lighthouse",
+                "img1":"light.jpeg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Thiba palace",
+                "img1":"thiba.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Beaches near Ratnagiri",
+            "places1":
+            [
+                {
+                    "name":"Bhatye Beach",
+                    "img1":"bhatye.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Kunkeshwar Beach",
+                    "img1":"kunkeshwar.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Guhagarh Beach",
+                    "img1":"guhagarh.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Ganpati pule Beach",
+                    "img1":"ganpati-pule.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Forts near Ratnagiri",
+            "places2":
+            [
+                {
+                  "name":"Jaigad fort",
+                  "img1":"jaigad.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Ratnadurg fort",
+                  "img1":"ratnadurg.webp",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Devgad fort",
+                    "img1":"devgad.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Pune",
+                    "img1":"pune.jpg",
+                    "info":"",
+                    "link":"/city/1"
+                },
+                {
+                    "name":"Delhi",
+                    "img1":"delhi.jpeg",
+                    "info":"",
+                    "link":"/city/3"
+                },
+                {
+                    "name":"Mumbai",
+                    "img1":"mumbai.jpeg",
+                    "info":"",
+                    "link":"/city/2"  
+                }
+            ]
+        },
+
+        {
+            "id":6,
+            "cityname":"Shimla",
+            "statename":"Himachal Pradesh",
+            "india":"India",
+            "img":"shimla.jpg",
+            "info":"Shimla (Hindi:शिमला) or Simla is the capital of the state of Himachal Pradesh in India. It is a very popular holiday-retreat during the summer months and is well-known for its Victorian architecture, which is reflected in certain areas of the Mall and The Ridge.",
+            
+            "images":
+            [
+                {"pic":"shimla1.jpg"},
+                {"pic":"shimla2.jpg"},
+                {"pic":"shimla3.jpeg"},
+                {"pic":"shimla4.jpg"},
+                {"pic":"shimla5.jpg"},
+                {"pic":"shimla6.jpg"}
+            ],
+
+            "places":
+            [
+                {
+                "name":"The ridge of shimla",
+                "img1":"shimla6.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Himalayan bird park",
+                "img1":"bird-park.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Tattapani",
+                "img1":"tattapani.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Pabbar valley",
+                "img1":"pabbar.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Hillstations near Shimla",
+            "places1":
+            [
+                {
+                    "name":"Kufri",
+                    "img1":"kufri.jpeg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Chail",
+                    "img1":"chail.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Kiarighat",
+                    "img1":"kiarighat.png",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Mashobra",
+                    "img1":"mashobra.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Treks near Shimla",
+            "places2":
+            [
+                {
+                  "name":"Churdhar trek",
+                  "img1":"churdhar.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Karol tibba",
+                  "img1":"karol.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Hatu peak",
+                    "img1":"hatu.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Jaipur",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/city/9"
+                },
+                {
+                    "name":"Delhi",
+                    "img1":"delhi.jpeg",
+                    "info":"",
+                    "link":"/city/3"
+                },
+                {
+                    "name":"Banglore",
+                    "img1":"banglore.png",
+                    "info":"",
+                    "link":"/city/4"  
+                }
+            ]
+        },
+
+        {
+            "id":7,
+            "cityname":"Dharamshala",
+            "statename":"Himachal Pradesh",
+            "india":"India",
+            "img":"dharamshala.jpg",
+            "info":"Dharamshala is a city in the Indian state of Himachal Pradesh. Surrounded by cedar forests on the edge of the Himalayas, this hillside city is home to the Dalai Lama and the Tibetan government-in-exile. The Thekchen Chöling Temple Complex is a spiritual center for Tibetan Buddhism, while the Library of Tibetan Works and Archives houses thousands of precious manuscripts.",
+            
+            "images":
+            [
+                {"pic":"dharamshala.png"},
+                {"pic":"dharamshala1.jpg"},
+                {"pic":"dharamshala2.jpg"},
+                {"pic":"dharamshala3.jpg"},
+                {"pic":"dharamshala4.jpg"},
+                {"pic":"dharamshala5.jpg"},
+                {"pic":"dharamshala6.jpg"},
+                {"pic":"dharamshala7.jpg"},
+                {"pic":"dharamshala8.jpg"},
+                {"pic":"dharamshala9.webp"}               
+            ],
+
+            "places":
+            [
+                {
+                "name":"Dalai lama temple ",
+                "img1":"dalai.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Namgyal Monastery",
+                "img1":"namgyal.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Masroor rock cut temple",
+                "img1":"masroor.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Bhagsu nag waterfall",
+                "img1":"bhagsu.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Other places near Dharamshala",
+            "places1":
+            [
+                {
+                    "name":"Triund",
+                    "img1":"triund.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Kareri lake",
+                    "img1":"kareri.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Dharamkot",
+                    "img1":"dharamkot.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Lam Dal lake",
+                    "img1":"lamdal.jpeg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Forts near Dharamshala",
+            "places2":
+            [
+                {
+                  "name":"Kangra fort",
+                  "img1":"kangra.jpeg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Lahesh caves",
+                  "img1":"lahesh.jpeg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Nurpur fort",
+                    "img1":"nurpur.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Udaipur",
+                    "img1":"udaipur.jpg",
+                    "info":"",
+                    "link":"/city/10"
+                },
+                {
+                    "name":"Kollam",
+                    "img1":"kollam.jpg",
+                    "info":"",
+                    "link":"/city/14"
+                },
+                {
+                    "name":"Shimla",
+                    "img1":"shimla.jpg",
+                    "info":"",
+                    "link":"/city/6"  
+                }
+            ]
+        },
+        {
+            "id":8,
+            "cityname":"Kasauli",
+            "statename":"Himachal Pradesh",
+            "india":"India",
+            "img":"kasauli.jpg",
+            "info":"Kasauli is a small hill town in the north Indian state of Himachal Pradesh.Kasauli is famous for its many attractions like the Central Research Institute, Christ Church, Kasauli Brewery, and Sunset Point as well as various activities like trekking, shopping, and even paragliding.At the southern edge of town, Monkey Point overlooks forests of horse chestnut and Himalayan oak. ",
+            
+            "images":
+            [
+                {"pic":"kasauli1.jpg"},
+                {"pic":"kasauli2.jpg"},
+                {"pic":"kasauli3.jpg"},
+                {"pic":"kasauli4.jpg"},
+                {"pic":"kasauli5.webp"},
+                {"pic":"kasauli6.jpg"},
+                {"pic":"kasauli7.jpg"},
+                {"pic":"kasauli8.jpg"}              
+            ],
+
+            "places":
+            [
+                {
+                "name":"Mall road ",
+                "img1":"mall.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Gurudwara Shri Guru Nanakji",
+                "img1":"guru.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Baptist church",
+                "img1":"baptist.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Sunset point",
+                "img1":"sunset.jpeg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Hill stations near Kasauli",
+            "places1":
+            [
+                {
+                    "name":"Kufri",
+                    "img1":"kufri.jpeg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Timber trail",
+                    "img1":"timber.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Gilbert trail",
+                    "img1":"gilbert.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Solan",
+                    "img1":"solan.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Other places near Kasauli",
+            "places2":
+            [
+                {
+                  "name":"Gurkha fort",
+                  "img1":"gurkha.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Monkey point",
+                  "img1":"monkey.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Karol hill",
+                    "img1":"karol-hill.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Dharamshala",
+                    "img1":"dharamshala.jpg",
+                    "info":"",
+                    "link":"/city/7"
+                },
+                {
+                    "name":"Thiruvanantapuram",
+                    "img1":"kollam.jpg",
+                    "info":"",
+                    "link":"/city/12"
+                },
+                {
+                    "name":"Pune",
+                    "img1":"pune.jpg",
+                    "info":"",
+                    "link":"/city/1"  
+                }
+            ]
+        },
+
+        {
+            "id":9,
+            "cityname":"Jaipur",
+            "statename":"Rajasthan",
+            "india":"India",
+            "img":"jaipur.jpg",
+            "info":"The city of Jaipur is the capital of Rajasthan and is known for its various attractions like Amer Fort, Hawa Mahal, Jala Mahal, Jantar Mantar, etc. It is popular by the name Pink City and is the largest city in the Indian state of Rajasthan. It is also believed to be one of the initially planned cities of the nation.",
+            
+            "images":
+            [
+                {"pic":"jaipur1.jpg"},
+                {"pic":"jaipur2.png"},
+                {"pic":"jaipur3.jpg"},
+                {"pic":"jaipur4.jpg"},
+                {"pic":"jaipur5.jpg"},
+                {"pic":"jaipur6.jpg"},
+                {"pic":"jaipur7.jpeg"},
+                {"pic":"jaipur8.jpg"}              
+            ],
+
+            "places":
+            [
+                {
+                "name":"Jal Mahal",
+                "img1":"jal.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Hawa Mahal",
+                "img1":"hawa.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Jantar Mantar",
+                "img1":"jantar.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Abhaneri Stepwell",
+                "img1":"abhaneri.gif",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Forts near Jaipur",
+            "places1":
+            [
+                {
+                    "name":"Amer fort",
+                    "img1":"amer.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Nahargarh fort",
+                    "img1":"nahargarh.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Jaigarh fort",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Kanak ghati",
+                    "img1":"kanak.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Museums near Jaipur",
+            "places2":
+            [
+                {
+                  "name":"Albert hall",
+                  "img1":"albert.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Amrapali Museum",
+                  "img1":"amrapali.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Anokhi Museum",
+                    "img1":"anokhi.jpeg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Udaipur",
+                    "img1":"udaipur.jpg",
+                    "info":"",
+                    "link":"/city/10"
+                },
+                {
+                    "name":"Ranakpur",
+                    "img1":"ranakpur.jpg",
+                    "info":"",
+                    "link":"/city/11"
+                },
+                {
+                    "name":"Ratnagiri",
+                    "img1":"ratnagiri.jpg",
+                    "info":"",
+                    "link":"/city/5"  
+                }
+            ]
+        },
+
+        {
+            "id":10,
+            "cityname":"Udaipur",
+            "statename":"Rajasthan",
+            "india":"India",
+            "img":"udaipur.jpg",
+            "info":"Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. City Palace, overlooking Lake Pichola, is a monumental complex of 11 palaces, courtyards and gardens, famed for its intricate peacock mosaics.",
+            
+            "images":
+            [
+                {"pic":"udaipur1.jpg"},
+                {"pic":"udaipur8.jpg"},
+                {"pic":"udaipur3.jpg"},
+                {"pic":"udaipur9.jpg"},
+                {"pic":"udaipur5.jpg"},
+                {"pic":"udaipur6.png"},
+                {"pic":"udaipur7.jpg"},
+                {"pic":"udaipur2.jpg"},
+                {"pic":"udaipur4.jpg"}         
+            ],
+
+            "places":
+            [
+                {
+                "name":"Lake Pichola",
+                "img1":"pichola.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"City Palace",
+                "img1":"city-palace.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Vintage Car Museum",
+                "img1":"vintage-car.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Eklingji temple",
+                "img1":"eklingji.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Forts near Udaipur",
+            "places1":
+            [
+                {
+                    "name":"Sajjangarh",
+                    "img1":"sajjangarh.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Kumbhalgarh",
+                    "img1":"kumbhalgarh.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Chittorgarh",
+                    "img1":"chittorgarh.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Alsigarh",
+                    "img1":"alsigarh.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Other places near Udaipur",
+            "places2":
+            [
+                {
+                  "name":"Haldighati",
+                  "img1":"haldigathi.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Nathdwara",
+                  "img1":"nathdwara.jpeg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Dhebar lake",
+                    "img1":"debhar.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+                
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Jaipur",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/city/9"
+                },
+                {
+                    "name":"Ranakpur",
+                    "img1":"ranakpur.jpg",
+                    "info":"",
+                    "link":"/city/11"
+                },
+                {
+                    "name":"Banglore",
+                    "img1":"banglore.png",
+                    "info":"",
+                    "link":"/city/4"  
+                }
+            ]
+        },
+
+        {
+            "id":11,
+            "cityname":"Ranakpur",
+            "statename":"Rajasthan",
+            "india":"India",
+            "img":"ranakpur.jpg",
+            "info":"Ranakpur is a village located in Desuri tehsil near Sadri town in the Pali district of Rajasthan in western India. It is located between Jodhpur and Udaipur. 162 km from Jodhpur and 91 km from Udaipur, in a valley on the western side of the Aravalli Range. ",
+            
+            "images":
+            [
+                {"pic":"ranakpur1.jpg"},
+                {"pic":"ranakpur2.jpg"},
+                {"pic":"ranakpur3.jpg"},
+                {"pic":"ranakpur4.jpg"}   
+            ],
+
+            "places":
+            [
+                {
+                "name":"Ranakpur jain temple",
+                "img1":"ranakpur.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Ranakpur dam",
+                "img1":"rdam.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Surya narayan temple",
+                "img1":"surya-narayan.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Evergreen wildlife safari",
+                "img1":"wild.jpeg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Forts near Ranakpur",
+            "places1":
+            [
+                {
+                    "name":"Badal Mahal",
+                    "img1":"badal.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Kumbha Palace",
+                    "img1":"kumbha.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Ambrai ghat",
+                    "img1":"ambrai.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Mount Abu",
+                    "img1":"mount-abu.jpeg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Other places near Ranakpur",
+            "places2":
+            [
+                {
+                  "name":"Nehru garden",
+                  "img1":"nehru.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Tilakeshwar mahadev temple",
+                  "img1":"tilkeshwar.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Amber Palace",
+                    "img1":"amber.jpeg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+                
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Udaipur",
+                    "img1":"udaipur.jpg",
+                    "info":"",
+                    "link":"/city/10"
+                },
+                {
+                    "name":"Jaipur",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/city/9"
+                },
+                {
+                    "name":"Kasauli",
+                    "img1":"kasauli.jpg",
+                    "info":"",
+                    "link":"/city/8"  
+                }
+            ]
+        },
+
+        {
+            "id":12,
+            "cityname":"Thiruvanantapuram",
+            "statename":"Kerala",
+            "india":"India",
+            "img":"thiruvanantapuram.jpg",
+            "info":"Thiruvananthapuram (or Trivandrum) is the capital of the southern Indian state of Kerala. It's distinguished by its British colonial architecture and many art galleries. Thiruvananthapuram is a major tourist centre, known for the Padmanabhaswamy Temple, the beaches of Kovalam and Varkala, the backwaters of Poovar and Anchuthengu and its Western Ghats tracts of Ponmudi and the Agastyamala.",
+            
+            "images":
+            [
+                {"pic":"thiru1.jpg"},
+                {"pic":"thiru2.jpg"},
+                {"pic":"thiru3.jpg"},
+                {"pic":"thiru4.jpg"},
+                {"pic":"thiru5.jpg"},
+                {"pic":"thiru6.jpg"},
+                {"pic":"thiru7.jpg"},
+                {"pic":"thiru8.jpg"},
+                {"pic":"thiru9.jpg"}   
+            ],
+
+            "places":
+            [
+                {
+                "name":"Neyyar Dam",
+                "img1":"neyyar.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Poovar Island",
+                "img1":"poovar.jpeg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Kanakakunnu Palace",
+                "img1":"kanaka.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Magic Planet",
+                "img1":"magic.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Other places near Thiruvanantapuram",
+            "places1":
+            [
+                {
+                    "name":"Agasthyakoodam",
+                    "img1":"agasthya.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Attukal Temple",
+                    "img1":"attukal.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Akkulam lake",
+                    "img1":"akkulam.jpeg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Vellayani lake",
+                    "img1":"vellayani.jpeg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Beaches near Thiruvanantapuram",
+            "places2":
+            [
+                {
+                  "name":"Shanghumukham beach",
+                  "img1":"shanghu.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Veli beach",
+                  "img1":"veli.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Puthen thope beach",
+                    "img1":"puthen.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+                
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Kochi",
+                    "img1":"kochi.jpg",
+                    "info":"",
+                    "link":"/city/13"
+                },
+                {
+                    "name":"Kollam",
+                    "img1":"kollam.jpg",
+                    "info":"",
+                    "link":"/city/14"
+                },
+                {
+                    "name":"Dharamshala",
+                    "img1":"dharamshala.jpg",
+                    "info":"",
+                    "link":"/city/7"  
+                }
+            ]
+        },
+
+        {
+            "id":13,
+            "cityname":"Kochi",
+            "statename":"Kerala",
+            "india":"India",
+            "img":"kochi.jpg",
+            "info":"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state.Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries. ",
+            
+            "images":
+            [
+                {"pic":"kochi1.jpg"},
+                {"pic":"kochi2.jpg"},
+                {"pic":"kochi3.jpeg"},
+                {"pic":"kochi4.jpg"},
+                {"pic":"kochi5.jpg"},
+                {"pic":"kochi6.jpg"},
+                {"pic":"kochi7.jpg"},
+                {"pic":"kochi8.jpg"},
+                {"pic":"kochi9.jpg"},
+                {"pic":"kochi10.jpg"}    
+            ],
+
+            "places":
+            [
+                {
+                "name":"Mattancherry Palace",
+                "img1":"mattancherry.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Chinese fishing nets",
+                "img1":"nets.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Willingdon Island",
+                "img1":"willingdon.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Mangalavanam bird sanctuary",
+                "img1":"mangala.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Beaches near Kochi",
+            "places1":
+            [
+                {
+                    "name":"Fort kochi beach",
+                    "img1":"fort-kochi.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Andhakaranazhi beach",
+                    "img1":"andhakar.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Kuzhupilly beach",
+                    "img1":"kuzhu.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Munambam beach",
+                    "img1":"munambam.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Other places near Kochi",
+            "places2":
+            [
+                {
+                  "name":"Agasthyakoodam",
+                  "img1":"agasthya.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Poovar Island",
+                  "img1":"poovar.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Jatayu earth centre",
+                    "img1":"kerala9.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+                
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Jaipur",
+                    "img1":"jaipur.jpg",
+                    "info":"",
+                    "link":"/city/9"
+                },
+                {
+                    "name":"Delhi",
+                    "img1":"delhi.jpeg",
+                    "info":"",
+                    "link":"/city/3"
+                },
+                {
+                    "name":"Ratnagiri",
+                    "img1":"ratnagiri.jpg",
+                    "info":"",
+                    "link":"/city/5"  
+                }
+            ]
+        },
+
+        {
+            "id":14,
+            "cityname":"Kollam",
+            "statename":"Kerala",
+            "india":"India",
+            "img":"kollam.jpg",
+            "info":"Kollam is a city in the state of Kerala, on India's Malabar Coast. It’s known as a trade hub and for its beaches, like lively Kollam and secluded Thirumullavaram. Sardar Vallabhbhai Patel Police Museum has artifacts tracing the history of the police force. Nearby, Ashtamudi Lake is a gateway to the Kerala backwaters, a network of waterways rich with vegetation. The striped 1902 Tangasseri Lighthouse has ocean views. ",
+            
+            "images":
+            [
+                {"pic":"kollam1.jpg"},
+                {"pic":"kollam2.jpg"},
+                {"pic":"kollam3.png"},
+                {"pic":"kollam4.jpeg"},
+                {"pic":"kollam5.jpg"},
+                {"pic":"kollam6.jpg"},
+                {"pic":"kollam7.jpeg"},
+                {"pic":"kollam8.jpg"},
+                {"pic":"kollam9.jpg"}    
+            ],
+
+            "places":
+            [
+                {
+                "name":"Jatayu earth's center",
+                "img1":"kerala9.jpg",
+                "info":"",
+                "link":"/place/1"
+                },
+                {
+                "name":"Thevalley palace",
+                "img1":"valley.jpg",
+                "info":"",
+                "link":"/place/2"
+                },
+                {
+                "name":"Palaruvi waterfalls",
+                "img1":"palaruvi.jpg",
+                "info":"",
+                "link":"/place/3"
+                },
+                {
+                "name":"Asthamudi lake",
+                "img1":"asthamudi.jpg",
+                "info":"",
+                "link":"/place/4"
+                }
+            ],
+
+            "places_photos_head1":"Other places near Kochi",
+            "places1":
+            [
+                {
+                    "name":"Attukal temple",
+                    "img1":"attukal.jpg",
+                    "info":"",
+                    "link":"/hill/1"
+                },
+                {
+                    "name":"Willingdon Island",
+                    "img1":"willingdon.jpg",
+                    "info":"",
+                    "link":"/hill/2"
+                },
+                {
+                    "name":"Akkulam lake",
+                    "img1":"akkulam.jpeg",
+                    "info":"",
+                    "link":"/hill/3"
+                },
+                {
+                    "name":"Magic Planet",
+                    "img1":"magic.jpg",
+                    "info":"",
+                    "link":"/hill/3"
+                }
+            ],
+
+            "places_photos_head2":"Beaches near Kollam",
+            "places2":
+            [
+                {
+                  "name":"Thirumullavarm beach",
+                  "img1":"thirumulla.jpg",
+                  "info":"",
+                  "link":"/fort/1"
+                },
+                
+                {
+                  "name":"Kovalam beach",
+                  "img1":"kovalam.jpg",
+                  "info":"",
+                  "link":"/fort/2"
+                },
+                {
+                    "name":"Varkala beach",
+                    "img1":"verkala.jpg",
+                    "info":"",
+                    "link":"/fort/4"
+                }
+                
+            ],
+
+            
+
+            "cities":
+            [
+                {
+                    "name":"Ranakpur",
+                    "img1":"ranakpur.jpg",
+                    "info":"",
+                    "link":"/city/11"
+                },
+                {
+                    "name":"Banglore",
+                    "img1":"banglore.png",
+                    "info":"",
+                    "link":"/city/4"
+                },
+                {
+                    "name":"Pune",
+                    "img1":"pune.jpg",
+                    "info":"",
+                    "link":"/city/1"  
+                }
+            ]
+        }
+    ]
+}

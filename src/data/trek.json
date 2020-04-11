@@ -1,0 +1,438 @@
+{
+    "trek":
+    [
+        {
+        "id":1,
+        "backimage":"lohgad-back.jpg",
+        "name":"Lohgad",
+        "city":"Malavali",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Lohagad (iron fort) is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level.",
+        "builtby":"Maharaja Suraj Mal, in early 18th century",
+        "air":" The Pune International Airport is the closest airport and you can easily reach Lohagad by taking the Mumbai-Pune Highway.",
+        "rail":"The nearest railway station is Malavli.",
+        "bus":"Lohagad is accessible from Paud via Dudhiware Khind and Kolvan or follow the Mumbai-Pune Highway to reach the place.",
+        
+        "images":
+        [
+            {"pic":"lohgad1.jpg"},
+            {"pic":"lohgad2.jpg"},
+            {"pic":"lohgad3.jpeg"},
+            {"pic":"lohgad4.jpg"},
+            {"pic":"lohgad5.jpg"},
+            {"pic":"lohgad6.jpg"},
+            {"pic":"lohgad7.jpg"},
+            {"pic":"lohgad8.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"visava hotel",
+            "img1":"aroma.jpg",
+            "info":"Timing : 7:00AM to 7:00PM  Address : Visapur Trek Rd, Maharashtra 410406"
+            },
+            {
+            "name":"Shivkrupa Restaurant",
+            "img1":"zafraana.jpg",
+            "info":"Timing : 5:00AM to 9:00PM   Address : Malawali N.m., Maharashtra 410401"
+            },
+            {
+            "name":"Arpit Resorts",
+            "img1":"tikka.jpg",
+            "info":"Timing : 7:00AM to 6:00PM  Address : Lohgad Visapur Trek Rd, Pune, Maharashtra 410406"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Sinhgad",
+            "img1":"sinhgad.jpg",
+            "info":"",
+            "link":"/trek/2"
+            },
+            {
+            "name":"Korigad",
+            "img1":"korigad.jpg",
+            "info":"",
+            "link":"/trek/6"
+        },
+        {
+            "name":"Visapur",
+            "img1":"visapur.jpg",
+            "info":"",
+            "link":"/trek/5"
+        }
+        ]
+    },
+
+    {
+        "id":2,
+        "backimage":"sinhgad-back.jpg",
+        "name":"Sinhgad",
+        "city":"Pune",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Sinhagad is a hill fortress located at around 35 km southwest of the city of Pune, India. Some of the information available at this fort suggests that the fort could have been built 2000 years ago. The caves and the carvings in the Kaundinyeshwar temple stand as proofs for the same.",
+        "builtby":"Muhammad bin Tughlaq in 1328AD",
+        "air":" Pune is the nearest Airport to Sinhagad. From the airport cabs are available for hire.",
+        "rail":"Sinhagad can be reached through trains plying till Pune Railway Station.",
+        "bus":"Hardly an hour journey or two, the road from Pune to Sinhagad is the easiest path taken to reach the fort.",
+        
+        "images":
+        [
+            {"pic":"sinhgad1.jpeg"},
+            {"pic":"sinhgad3.webp"},
+            {"pic":"sinhgad4.jpg"},
+            {"pic":"sinhgad5.jpg"},
+            {"pic":"sinhgad6.jpg"},
+            {"pic":"sinhgad7.jpg"},
+            {"pic":"sinhgad8.jpg"},
+            {"pic":"sinhgad9.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"Sinhgad dhaba",
+            "img1":"sinhdhaba.jpg",
+            "info":"Timing : 7:00AM to 10:00PM  Address : Sinhagad Ghat Rd, Thoptewadi, Maharashtra 411025"
+            },
+            {
+            "name":"Forest park resto farm",
+            "img1":"forest.jpeg",
+            "info":"Timing : 24hrs   Address : Sinhagad Paytha Road, Ghera Sinhagad, Maharashtra 411025"
+            },
+            {
+            "name":"The shawarma fusion",
+            "img1":"shawarma.jpg",
+            "info":"Timing :11:30AM–3:00PM 6:30PM–11:30PM  Address : Sinhgad Rd, Wadgaon Budruk, Narhe, Pune, Maharashtra 411041"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Lohgad",
+            "img1":"lohgad.jpg",
+            "info":"",
+            "link":"/trek/1"
+            },
+            {
+            "name":"Rajmachi",
+            "img1":"korigad.jpg",
+            "info":"",
+            "link":"/trek/3"
+        },
+        {
+            "name":"Visapur",
+            "img1":"visapur.jpg",
+            "info":"",
+            "link":"/trek/5"
+        }
+        ]
+    
+    },
+    {
+        "id":3,
+        "backimage":"rajmachi-back.jpg",
+        "name":"Rajmachi",
+        "city":"Lonavla",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Rajmachi Fort is one of the many historical forts in the rugged hills of Sahyadri mountains. It consists of two twin fortresses Shriwardhan Ballekilla and Manaranjan Balekilla, with a wide machi surrounding the two Balekillas.",
+        "builtby":"Established by the Satavahanas, this citadel was captured in 1657 by Shivaji Maharaj from the ruler of Bijapur. ",
+        "air":"Chhatrapati Shivaji International Aiprort is the nearest airport to reach Rajmachi fort. From the airport many private taxies and cabs are available to reach directly to Rajmachi fort.",
+        "rail":"Lonavala is nearest railway station to reach Rajmachi fort.",
+        "bus":"From Pune to Rajmachi fort use Mumbai-Pune Expressway till Lonavala.",
+        
+        "images":
+        [
+            {"pic":"rajmachi1.jpg"},
+            {"pic":"rajmachi2.jpg"},
+            {"pic":"rajmachi3.jpg"},
+            {"pic":"rajmachi4.jpg"},
+            {"pic":"rajmachi5.jpg"},
+            {"pic":"rajmachi6.jpg"},
+            {"pic":"rajmachi7.jpg"},
+            {"pic":"rajmachi8.jpg"},
+            {"pic":"rajmachi9.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"Hotel sahyadri garden",
+            "img1":"sahyadri.jpg",
+            "info":"Timing : 9:00AM to 11:00PM  Address : Satara, Maharashtra 415105"
+            },
+            {
+            "name":"Cafe24- Della resorts",
+            "img1":"della.jpg",
+            "info":"Timing : 24hrs   Address : Plot No. 129, Kunegaon, Lonavla, Maharashtra 410401"
+            },
+            {
+            "name":"Rama Krishna",
+            "img1":"rama.jpg",
+            "info":"Timing : 7:00AM to 11:00PM Address : Mumbai-Pune Highway, Gavliwada Naka, Lonavla, Maharashtra 410401"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Torna",
+            "img1":"torna.jpg",
+            "info":"",
+            "link":"/trek/4"
+            },
+            {
+            "name":"Sinhgad",
+            "img1":"sinhgad.jpg",
+            "info":"",
+            "link":"/trek/2"
+        },
+        {
+            "name":"Triund",
+            "img1":"triund.jpg",
+            "info":"",
+            "link":"/trek/7"
+        }
+        ]
+    
+    },
+    {
+        "id":4,
+        "backimage":"torna-back.webp",
+        "name":"Rajmachi",
+        "city":"Velhe",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra.The hill has an elevation of 1,403 metres (4,603 ft) above sea level, making it the highest hill-fort in the district.It is historically significant because it was the first fort captured by Chatrapati Shivaji Maharaj in 1646, at the age of 16, forming the nucleus of the Maratha empire. ",
+        "builtby":"This fort is believed to have been constructed by the Shaiva Panth, followers of the Hindu god Shiva, in the 13th century ",
+        "air":"Pune is the nearest airport to reach Torna fort. From pune you can take state transport bus",
+        "rail":"From Mumbai, one can catch a train to Pune then from swarget you need to take state transport bus to reach Velhe.",
+        "bus":"From Pune start in the early morning from Swargate bus stand (7:45 am first bus to Velhe reaches around 9:30 am till Velhe the base village). The relevant routes go by via Khed Shivapur, Cheladi/ Nasarapur/ Baneshwar, then Winzar, to the village of Velhe.",
+        
+        "images":
+        [
+            {"pic":"torna1.jpg"},
+            {"pic":"torna2.jpg"},
+            {"pic":"torna3.jpg"},
+            {"pic":"torna4.jpg"},
+            {"pic":"torna5.jpg"},
+            {"pic":"torna6.jpeg"},
+            {"pic":"torna7.jpg"},
+            {"pic":"torna8.jpg"},
+            {"pic":"torna9.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"Hotel torna vihar",
+            "img1":"tvihar.jpg",
+            "info":"Timing : 6:00AM to 10:00PM  Address : Velhe, Maharashtra 412212"
+            },
+            {
+            "name":"Hotel swapnali",
+            "img1":"swapnali.jpeg",
+            "info":"Timing : 7:00AM to 10:00PM   Address : Nasrapur, Velhe, Maharashtra 412212"
+            },
+            {
+            "name":"Hotel sai",
+            "img1":"sai.webp",
+            "info":"Timing : 6:00AM to 7:00PM Address : near mengai Temple, Velhe, Maharashtra 412212"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Rajmachi",
+            "img1":"rajmachi.jpg",
+            "info":"",
+            "link":"/trek/3"
+            },
+            {
+            "name":"Sinhgad",
+            "img1":"sinhgad.jpg",
+            "info":"",
+            "link":"/trek/2"
+        },
+        {
+            "name":"Lohgad",
+            "img1":"lohgad.jpg",
+            "info":"",
+            "link":"/trek/1"
+        }
+        ]
+    
+    },
+    {
+        "id":5,
+        "backimage":"visapur-back.jpg",
+        "name":"Visapur",
+        "city":"Malavali",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Visapur Fort is larger and at a higher elevation than its twin fort- Lohagad.[2] Within the fort are caves, cisterns of water, a decorated arch and old houses.Visapur fort was built much later than Lohagad but the histories of the two forts are closely linked.",
+        "builtby":"It was built during 1713-1720 CE by Balaji Vishwanath, the first Peshwa of Maratha Empire",
+        "air":"Pune is the nearest airport to reach Visapur fort. From pune you can take state transport bus",
+        "rail":"The nearest railhead to Visapur Fort is Malavli station (approx. 5 kms) which is well connected to Mumbai, Lonavala, and Pune via local trains. From Malavli station shared auto/taxi are available for the base village of Visapur Fort",
+        "bus":"From Pune it is 61km to base village malavli .",
+        
+        "images":
+        [
+            {"pic":"visapur1.jpg"},
+            {"pic":"visapur2.jpg"},
+            {"pic":"visapur3.jpg"},
+            {"pic":"visapur4.jpg"},
+            {"pic":"visapur5.jpg"},
+            {"pic":"visapur6.jpg"},
+            {"pic":"visapur7.jpg"},
+            {"pic":"visapur8.jpg"},
+            {"pic":"visapur9.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"Visava hotel",
+            "img1":"tvihar.jpg",
+            "info":"Timing : 7:00AM to 7:00PM  Address : Visapur Trek Rd, Maharashtra 410406"
+            },
+            {
+            "name":"Shivkrupa restaurant",
+            "img1":"swapnali.jpeg",
+            "info":"Timing : 5:00AM to 9:00PM   Address : Malawali N.m., Maharashtra 410401"
+            },
+            {
+            "name":"Arpit resorts",
+            "img1":"sai.webp",
+            "info":"Timing : 7:00AM to 6:00PM Address : Lohgad Visapur Trek Rd, Pune, Maharashtra 410406"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Chandratal",
+            "img1":"chandratal1.jpg",
+            "info":"",
+            "link":"/trek/3"
+            },
+            {
+            "name":"Torna",
+            "img1":"torna.jpg",
+            "info":"",
+            "link":"/trek/2"
+        },
+        {
+            "name":"Korigad",
+            "img1":"korigad.jpg",
+            "info":"",
+            "link":"/trek/6"
+        }
+        ]
+    
+    },
+    {
+        "id":6,
+        "backimage":"korigad9.jpg",
+        "name":"Korigad",
+        "city":"Lonavla",
+        "state":"Maharashtra",
+        "days":"All days of the week ",
+        "time":"24hrs ",
+        "entry":"Free",
+        "info":"Korigad (also called Koraigad, Koarigad or Kumwarigad) is a hill fort located about 20 km (12 mi) south of Lonavla in Pune district, Maharashtra, India. Its date of construction is not known but likely predates 1500. It is about 923 m above sea level.The closest village is Peth Shahpur, about 1 km (0.62 mi) north of the fort.",
+        "builtby":"Chhatrapati Shivaji Maharaj in 1657",
+        "air":"Pune is the nearest airport to reach Korigad fort. From pune you can take state transport bus",
+        "rail":"The nearest railway station from Korigad Fort is at Lonavala, which is well connected to nearby cities like Mumbai and Pune by rail. ",
+        "bus":"From Pune it is 65km to base village lonavla .",
+        
+        "images":
+        [
+            {"pic":"korigad1.webp"},
+            {"pic":"korigad2.jpg"},
+            {"pic":"korigad3.cms"},
+            {"pic":"korigad4.jpg"},
+            {"pic":"korigad5.webp"},
+            {"pic":"korigad6.jpg"},
+            {"pic":"korigad7.jpg"},
+            {"pic":"korigad8.jpg"},
+            {"pic":"korigad9.jpg"}
+            
+        ],
+
+        "hotels":
+        [
+            {
+            "name":"Koraimata dhaba",
+            "img1":"korai.jpg",
+            "info":"Timing : 8:00AM to 10:00PM  Address : Pethsahpur, Peth Shahapur, Maharashtra 412108"
+            },
+            {
+            "name":"Mabruk restaurant",
+            "img1":"mabruk.jpg",
+            "info":"Timing : 12:00AM to 12:00PM   Address : Amby Valley Internal Rd, Aamby Valley City, Maharashtra 412108"
+            },
+            {
+            "name":"Woodpecker restaurant",
+            "img1":"wood.jpg",
+            "info":"Timing : 24hrs Address : Aamby Valley City, Maharashtra 412108"
+            }
+        ],
+
+       
+        "moreplaces":
+        [
+            {
+            "name":"Sinhgad",
+            "img1":"sinhgad.jpg",
+            "info":"",
+            "link":"/trek/2"
+            },
+            {
+            "name":"Lohgad",
+            "img1":"lohgad.jpg",
+            "info":"",
+            "link":"/trek/1"
+        },
+        {
+            "name":"Rajmachi",
+            "img1":"rajmachi.jpg",
+            "info":"",
+            "link":"/trek/3"
+        }
+        ]
+    
+    }
+  
+   
+    ]
+
+}

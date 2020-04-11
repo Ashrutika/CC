@@ -1,0 +1,18 @@
+#photos{
+    display:inline-block;
+   
+}
+
+.maha-img{
+    height:200px;
+    width:200px;
+    border-radius:5px;
+    box-shadow: 2px 2px 4px black;
+    margin:5px;
+    
+}
+
+.maha-img:hover{
+    border-radius: 30px;
+    
+}

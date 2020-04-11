@@ -1,0 +1,79 @@
+.loc-state{
+    /* height:200px;
+    width:400px; */
+    border:1px solid grey;
+   margin:10px;
+    border: none;
+    /* border:2px solid black; */
+}
+
+#state-img{
+    height:200px;
+    width:400px;
+    border-radius:5px;
+    
+}
+
+#location-box{
+    position: absolute;
+    display:inline-block;
+    height: 200px;
+    width:370px;
+    margin-left:10px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+
+.state-info{
+    margin:10px;
+    /* border:1px solid lightgray; */
+    padding:3px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+
+#bold{
+    color:black;
+   font-weight: bold;
+   font-size: 17px;
+}
+
+#cap a{
+    text-decoration-line: none;
+    color:dimgrey;
+    font-size:15px;
+}
+
+#cap a:hover{
+    color:rgb(57, 198, 253);
+    text-decoration-line: underline;
+}
+
+.about-state{
+    
+    height: 560px;
+    width:800px;
+    background-color: white;
+    margin-top:20px;
+    margin-left: 250px;
+    border:1px solid grey;
+    border-radius:10px;
+   
+}
+
+/* #photos{
+    display:inline-block;
+}
+
+.maha-img{
+    height:100px;
+    width:100px;
+    border-radius:5px;
+    box-shadow: 2px 2px 4px black;
+    margin:5px;
+    
+} */

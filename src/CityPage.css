@@ -1,0 +1,112 @@
+
+/* .cityy{
+    background-color:;
+    height:auto;
+} */
+
+
+.photos{
+    margin-top:30px;
+    margin-left:130px;
+}
+
+.popular{
+    position: absolute;
+    margin-top:60px;
+    margin-left:160px;
+   
+    
+}
+
+#place{
+    position: relative;
+    font-size: 20px;
+    margin-left:360px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:10px;
+    letter-spacing: 3px;
+    height:auto;
+} 
+
+#place-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:700px;
+  
+   
+}
+
+#place-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+#trek-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:210vh;
+  
+   
+}
+
+#trek-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+.forts{
+    position: absolute;
+    margin-top:760px;
+    margin-left:160px;
+   
+    
+}
+.hills{
+    position: absolute;
+    margin-top:220vh;
+    margin-left:160px;
+   
+    
+}
+.city{
+    position: absolute;
+    margin-top:285vh;
+    margin-left:160px;
+    padding-bottom: 30px;
+    
+}
+
+#hill-btn{
+    position: absolute;
+    color:rgb(4, 85, 117);
+    border:1px solid grey;
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    background-color:transparent;
+    font-size:15px;
+    margin-left: 550px;
+    margin-top:275vh;
+  
+   
+}
+
+#hill-btn:hover{
+    background-color: skyblue;
+    color:black;
+}
+

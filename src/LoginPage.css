@@ -1,0 +1,112 @@
+.Log-header{
+    position: relative;
+   background-color: #223388;
+   height:670px;
+   width:400px;
+   margin-top:0px;
+   display: inline-block;
+}
+
+.head{
+  position: absolute;
+  top:150px;
+  left:50px;
+   font-size:50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: #dcdaeb;
+   
+}
+
+.para{
+    position: absolute;
+    top:230px;
+    left:60px;
+    color:red;
+    font-size:20px;
+}
+
+.login-section{
+    position: absolute;
+    display: inline-block;
+    background-color: #dcdaeb;
+    height:670px;
+    width:919px;
+    margin:0px;
+    padding: 0px;
+}
+
+
+#title-log{
+ color:#223388;
+  margin-left:450px; 
+}
+
+.login-form{
+    display: block;
+    height:300px;
+    width:500px;
+    background-color: skyblue;
+    margin-left:230px;
+    margin-top:50px;
+    padding:20px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 8px #223388;
+}
+
+#email,#pass{
+    display: block;
+    border:1px solid grey;
+    border-radius:5px;
+    background-color: transparent;
+    margin:20px;
+    margin-left:90px;
+    height:40px;
+    width:300px;
+    
+   
+}
+
+#btn-log{
+    display: block;
+    border:none;
+    margin:20px;
+    margin-left:90px;
+    height:40px;
+    width:300px;
+   background-color:#223388 ;
+   color:white;
+   font-size: 20px;
+   box-shadow: 2px 2px 5px #223388;
+   border-radius: 25px;
+}
+
+#btn-log:hover{
+   box-shadow:4px 4px 6px #223388;
+  
+}
+
+#forgot{
+  color:blue;
+  margin-left:190px;
+}
+
+#new{
+    position: absolute;
+    color:black;
+    margin-left:160px;
+    margin-top:60px;
+}
+
+#sign-link{
+   text-decoration: none;
+   color: red;
+}
+
+
+#home-link{
+    color:red;
+    text-decoration-line: underline;
+    float:right;
+    margin-right:10px;
+    margin-top:5px;
+}

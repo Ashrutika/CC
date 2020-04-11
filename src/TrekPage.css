@@ -1,0 +1,46 @@
+#hotels-place{
+    font-size: 20px;
+    margin-left:240px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    letter-spacing: 3px;
+} 
+
+.hotels{
+    position: absolute;
+    margin-top:60px;
+    margin-left:160px;
+   
+    
+}
+
+
+
+.place-img{
+
+    margin-top:30px;
+    margin-left:140px;
+}
+
+
+
+.more{
+
+    margin-top:70vh;
+    margin-left:160px;
+   
+}
+
+#also{
+
+    font-size: 20px;
+    margin-left:390px;
+    color:rgb(44, 43, 126);
+    font-style: italic;
+    margin-top:50px;
+    letter-spacing: 3px;
+}
+
+
+
