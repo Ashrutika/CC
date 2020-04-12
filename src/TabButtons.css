@@ -1,12 +1,14 @@
 .links{
     float:right;
-    margin-right:100px;
+    margin-right:20%;
    
 }
 
 .ul-list{
     
     list-style-type: none;
+    display:flex;
+    
 }
 
 li{

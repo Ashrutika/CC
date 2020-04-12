@@ -2,7 +2,7 @@
     /* height:200px;
     width:400px; */
     border:1px solid grey;
-   margin:10px;
+    margin:10px;
     border: none;
     /* border:2px solid black; */
 }
@@ -14,15 +14,6 @@
     
 }
 
-#location-box{
-    position: absolute;
-    display:inline-block;
-    height: 200px;
-    width:370px;
-    margin-left:10px;
-    border:1px solid black;
-    border-radius: 5px;
-}
 
 .state-info{
     margin:10px;
@@ -55,11 +46,12 @@
 
 .about-state{
     
-    height: 560px;
-    width:800px;
+    height: fit-content;
+    width:fit-content;
     background-color: white;
-    margin-top:20px;
-    margin-left: 250px;
+    margin-top:5%;
+    margin-left: 5%;
+    margin-right:5%;
     border:1px solid grey;
     border-radius:10px;
    

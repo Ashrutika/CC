@@ -5,7 +5,7 @@ class AboutPlace extends React.Component{
     render(){
         return(
             <div className="about-place">
-            <div className="box-location"></div>
+            <div className="box-location"> <img src={require('./images/cities/' +this.props.img)} id="state-img"></img></div>
             <div className="place-info">{this.props.info}</div>
             <div>
             <p id="cap"><span id="bold">Built by : </span>{this.props.builtby}</p>

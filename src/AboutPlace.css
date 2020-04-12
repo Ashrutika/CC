@@ -1,12 +1,12 @@
 .about-place{
-    height:auto;
-    width:800px;
+    height: fit-content;
+    width:fit-content;
     background-color: white;
-    margin-top:20px;
-    margin-left: 250px;
+    margin-top:5%;
+    margin-left: 5%;
+    margin-right:5%;
     border:1px solid grey;
     border-radius:10px;
-    padding: 10px;
    
 }
 
@@ -14,8 +14,6 @@
     position: absolute;
     height: 200px;
     width:370px;
-    margin-left:200px;
-    border:1px solid black;
     border-radius: 5px;
 }
 

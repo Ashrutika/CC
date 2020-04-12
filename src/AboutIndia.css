@@ -1,12 +1,13 @@
 .aboutIndia{
-    position: relative;
+    /* position: relative; */
     height:auto;
-    width:850px;
-    margin-left:250px;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
     border-radius: 5px;
     box-shadow: 6px 6px 10px black;
     background-color: white;
-    margin-top:-490px;
+    margin-top:5%;
     
   
    
@@ -23,18 +24,16 @@
 }
 
 .explore{
-    position: absolute ;
+    /* position: absolute ; */
     color: red;
-    left:460px;
-    top:260px;
+    margin-left:35%;
+    margin-top:5%;
+    margin-right:20%;
     font-size: 70px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
-.location{
-   
-}
 .ind-img{
     height:250px;
     width:250px;

@@ -1,11 +1,11 @@
 
 .header{
-  height: 150px;
+  height: 100%;
   background-color: #223388;
   border-bottom-left-radius: 50%;
   border-top-right-radius: 50%;
   margin-top: 0px;
-  padding: 10px;
+  padding: 3%;
 }
 
 .app-name{
@@ -17,9 +17,10 @@
 
 .ul-list{
    
-    margin-top:5px;
+    /* margin-top:5%; */
     list-style-type: none;
-    margin-left:490px;
+    margin-left:40%;
+    margin-right:40%; 
 }
 
 li{
@@ -45,7 +46,7 @@ li #link-a:hover , .dropdown:hover .drop-btn{
 
 .drop-content{
     display: none;
-    position: absolute;
+    /* position: absolute; */
     box-shadow: 4px 4px 6px grey;
     min-width:150px;
     background-color: white;

@@ -38,14 +38,15 @@ class StatePage extends React.Component{
                 <div className="culture">
                 {culture}
                 </div>
-                  <div className="popular">
-                  <div id="pcities">{"Popular cities in "+State.head_name}</div>
+                <div id="pcities">{"Popular cities in "+State.head_name}</div>
+                  <div >
                   {popular_cities} 
                   </div>
-                  <div className="popularstates">
                   <div id="pstates">Recommended States </div>
+                  <div >
                   {popular_states} 
                   </div>
+                 
               </React.Fragment>
      
        

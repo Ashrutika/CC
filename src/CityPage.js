@@ -44,20 +44,20 @@ class CityPage extends React.Component{
             <div className="photos">
             {image}
             </div>
-            <div className="popular">
-          <div id="place">{"Places to visit near "+City.cityname}</div>
+            <div id="place">{"Places to visit near "+City.cityname}</div>
+            <div >
           {popular_places} 
           </div>
-          <div className="forts">
           <div id="place">{City.places_photos_head1}</div>
+          <div >
           {places1} 
           </div>
-          <div className="hills">
           <div id="place">{City.places_photos_head2}</div>
+          <div >
           {places2} 
           </div>
-          <div className="city">
           <div id="place">Also visit....</div>
+          <div >
           {city} 
           </div> 
         </div>

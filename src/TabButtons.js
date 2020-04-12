@@ -12,7 +12,7 @@ class TabButtons extends React.Component{
             <div className="links">
             <ul className="ul-list">
             <li className="dropdown" ><Link to="/" id="a-link">Home</Link></li>
-            <li className="dropdown"><a id="a-link" href="" className="drop-btn">States</a>
+            <li className="dropdown"><p id="a-link" href="" className="drop-btn">States</p>
             <div className="drop-content">
             <Link to="/state/1" id="a-link">Maharashtra</Link>
             <Link to="/state/2" id="a-link">Himachal Pradesh</Link>
@@ -20,7 +20,7 @@ class TabButtons extends React.Component{
             <Link to="/state/4" id="a-link">Kerala</Link>
             </div>
              </li>
-             <li className="dropdown"><a id="a-link" href="" className="drop-btn">Cities</a>
+             <li className="dropdown"><p id="a-link" href="" className="drop-btn">Cities</p>
            <div className="drop-content">
            <Link to="/city/1" id="a-link">Pune</Link>
            <Link to="/city/2" id="a-link">Mumbai</Link>
@@ -38,7 +38,7 @@ class TabButtons extends React.Component{
            <Link to="/city/14" id="a-link">Kollam</Link>
            </div>
            </li>
-           <li className="dropdown"><a id="a-link" href="" className="drop-btn">Treks</a>
+           <li className="dropdown"><p id="a-link" href="" className="drop-btn">Treks</p>
            <div className="drop-content">
            <Link to="/trek/1" id="a-link">Lohgad</Link>
             <Link to="/trek/2" id="a-link">Sinhgad</Link>

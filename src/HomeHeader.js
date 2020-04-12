@@ -13,7 +13,7 @@ class HomeHeader extends React.Component{
           
           <ul className="ul-list">
 
-           <li className="dropdown"><a id="link-a" href="" className="drop-btn">States</a>
+           <li className="dropdown"><p id="link-a" className="drop-btn">States</p>
            <div className="drop-content">
            <Link to="/state/1" id="link-a">Maharashtra</Link>
            <Link to="/state/2" id="link-a">Himachal Pradesh</Link>
@@ -22,7 +22,7 @@ class HomeHeader extends React.Component{
            </div>
            </li>
 
-           <li className="dropdown"><a id="link-a" href="" className="drop-btn">Cities</a>
+           <li className="dropdown"><p id="link-a" href="" className="drop-btn">Cities</p>
            <div className="drop-content">
            <Link to="/city/1" id="link-a">Pune</Link>
            <Link to="/city/2" id="link-a">Mumbai</Link>
@@ -41,7 +41,7 @@ class HomeHeader extends React.Component{
            </div>
            </li>
 
-           <li className="dropdown"><a id="link-a" href="" className="drop-btn">Treks</a>
+           <li className="dropdown"><p id="link-a" href="" className="drop-btn">Treks</p>
            <div className="drop-content">
            <Link to="/trek/1" id="link-a">Lohgad</Link>
             <Link to="/trek/2" id="link-a">Sinhgad</Link>

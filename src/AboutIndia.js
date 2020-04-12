@@ -16,7 +16,7 @@ class AboutIndia extends React.Component{
         return(
             <React.Fragment>
            
-            <img src={HomeWallpaper} className="back-img"></img>
+            {/* <img src={HomeWallpaper} className="back-img"></img> */}
            
             <div className="explore">Explore India 
             

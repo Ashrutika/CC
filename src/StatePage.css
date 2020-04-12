@@ -1,27 +1,10 @@
 
  .culture{
-    margin-left:130px;
+    margin-left:5%;
+    margin-right:5%;
 }
 
-#more-btn{
-    position: absolute;
-    color:rgb(4, 85, 117);
-    border:1px solid grey;
-    height:40px;
-    width:150px;
-    border-radius: 30px;
-    background-color:transparent;
-    font-size:15px;
-    margin-left: 550px;
-    margin-top:440px;
-  
-   
-}
 
-#more-btn:hover{
-    background-color: skyblue;
-    color:black;
-}
 
 .popular{
     position: absolute;
@@ -55,22 +38,3 @@
     
 } 
 
-#more-state{
-    position: absolute;
-    color:rgb(4, 85, 117);
-    border:1px solid grey;
-    height:40px;
-    width:150px;
-    border-radius: 30px;
-    background-color:transparent;
-    font-size:15px;
-    margin-left: 550px;
-    margin-top:870px;
-  
-
-}
-
-#more-state:hover{
-    background-color: skyblue;
-    color:black;
-}

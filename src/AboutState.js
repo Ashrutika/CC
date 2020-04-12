@@ -12,7 +12,7 @@ class AboutState extends React.Component{
             <div className="about-state">
                 <div className="loc-state">
                 <img src={require('./images/cities/' +this.props.img)} id="state-img"></img>
-                <div id="location-box"></div>
+                {/* <div id="location-box"></div> */}
                 </div>
                 <div className="state-info">
                     {this.props.info}

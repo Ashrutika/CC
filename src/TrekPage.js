@@ -29,7 +29,7 @@ class TrekPage extends React.Component{
             const Moreplaces = Place.moreplaces;
 
             const head=<PlaceHead backimage={Place.backimage} city={Place.city} state={Place.state} name={Place.name}/>
-            const about=<AboutPlace days={Place.days} time={Place.time} entry={Place.entry} info={Place.info} builtby={Place.builtby} rail={Place.rail} air={Place.air} bus={Place.bus}/>
+            const about=<AboutPlace days={Place.days} time={Place.time} img={Place.backimage} entry={Place.entry} info={Place.info} builtby={Place.builtby} rail={Place.rail} air={Place.air} bus={Place.bus}/>
             const image=Photos.map(photos => <CulturePhotos photos={photos.pic}/>)
             const hotel=Hotels.map(list => <StatePhotos name={list.name}  img1={list.img1} info={list.info}/>)
             const moreplace=Moreplaces.map(list => <StatePhotos name={list.name} link={list.link} img1={list.img1} info={list.info}/>)
@@ -41,12 +41,12 @@ class TrekPage extends React.Component{
             <div className="place-img">
                 {image}
                 </div>
-            <div className="hotels">
             <div id="hotels-place">Near by Hotels ,Restaurants and coffee shops </div>
+            <div >
               {hotel}
               </div>
-              <div className="more">
-            <div id="also">Also visit</div>
+              <div id="also">Also visit</div>
+              <div >
               {moreplace}
               </div>
             </div>

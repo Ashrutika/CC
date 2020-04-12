@@ -37,16 +37,15 @@
 
 .place-img{
     margin-top:30px;
-    margin-left:140px;
+    margin-left:5%;
+    margin-right:5%;
 }
 
 .malls{
    
         position: absolute;
         margin-top:120vh;
-        margin-left:160px;
-       
-        
+        margin-left:160px; 
     
 }
 

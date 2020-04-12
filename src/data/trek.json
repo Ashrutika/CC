@@ -207,10 +207,10 @@
             "link":"/trek/2"
         },
         {
-            "name":"Triund",
-            "img1":"triund.jpg",
+            "name":"Korigad",
+            "img1":"korigad.jpg",
             "info":"",
-            "link":"/trek/7"
+            "link":"/trek/6"
         }
         ]
     
@@ -218,7 +218,7 @@
     {
         "id":4,
         "backimage":"torna-back.webp",
-        "name":"Rajmachi",
+        "name":"Torna",
         "city":"Velhe",
         "state":"Maharashtra",
         "days":"All days of the week ",
@@ -339,10 +339,10 @@
         "moreplaces":
         [
             {
-            "name":"Chandratal",
-            "img1":"chandratal1.jpg",
+            "name":"Sinhgad",
+            "img1":"sinhgad.jpg",
             "info":"",
-            "link":"/trek/3"
+            "link":"/trek/2"
             },
             {
             "name":"Torna",

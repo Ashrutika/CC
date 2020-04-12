@@ -13,7 +13,7 @@ class AboutCity extends React.Component{
             <div className="about-city">
             <div className="loc-city">
             <img src={require('./images/cities/'+this.props.img)} id="city-img"></img>
-            <div id="location-box"></div>
+            {/* <div id="location-box"></div> */}
             </div>
             <div className="city-info">
                 {this.props.info}
