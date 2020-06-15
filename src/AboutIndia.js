@@ -1,6 +1,5 @@
 import React from 'react';
 import './AboutIndia.css';
-import HomeWallpaper from './images/Home1.jpg';
 import India from './images/india.jpeg';
 import India1 from './images/india1.jpeg';
 import India2 from './images/india2.jpeg';
