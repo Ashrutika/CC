@@ -4,7 +4,6 @@ import HomeHeader from './HomeHeader';
 import AboutIndia from './AboutIndia';
 import PopularStates from './PopularStates';
 import PopularCties from './PopularCities';
-import SeasonHome from './SeasonHome';
 import Footer from './Footer';
 
 class Home extends React.Component{
